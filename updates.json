@@ -1,9 +1,13 @@
 {
-"version":"17.1",
-"filename":"lineage-17.1-20200610-UNOFFICIAL-ss2.zip",
-"datetime":1591783215,
-"size":850960811,
-"romtype":"unofficial",
-"url":"https://sourceforge.net/projects/fih/files/LineageOS17.1/lineage-17.1-20200610-UNOFFICIAL-ss2.zip/download",
-"id":"df98ee9330a9eabcc1088a8e1e00d9eb0a9753668bc00000a9ae0848d7a1b404",
+ "response": [
+    {
+      "datetime": 1591783215,
+      "filename": "lineage-17.1-20200610-UNOFFICIAL-ss2.zip",
+      "id": "df98ee9330a9eabcc1088a8e1e00d9eb0a9753668bc00000a9ae0848d7a1b404",
+      "romtype": "nightly",
+      "size": 850960811,
+      "url": "https://sourceforge.net/projects/fih/files/LineageOS17.1/lineage-17.1-20200610-UNOFFICIAL-ss2.zip/download",
+      "version": "17.1"
+    }
+  ]
 }
