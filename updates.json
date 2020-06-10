@@ -1,11 +1,9 @@
 {
-"version":"android-10.0",
+"version":"17.1",
 "filename":"lineage-17.1-20200610-UNOFFICIAL-ss2.zip",
 "datetime":1591783215,
 "size":850960811,
+"romtype": "unofficial",
 "url":"https://sourceforge.net/projects/fih/files/LineageOS17.1/lineage-17.1-20200610-UNOFFICIAL-ss2.zip/download",
-"filehash":"dd68a42ed6df787ebca608e4a54d86ec",
 "id":"df98ee9330a9eabcc1088a8e1e00d9eb0a9753668bc00000a9ae0848d7a1b404",
-"whatsNew":"First test",
-"notification":"Sofware update - New LineageOS build is up"
 }
